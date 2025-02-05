@@ -1,0 +1,126 @@
+IT-21,Piemonte,Piedmont,region
+IT-23,Valle d'Aosta,Aosta Valley,autonomous,region
+IT-25,Lombardia,Lombardy,region
+IT-32,Trentino-Alto Adige,Trentino-South Tyrol,autonomous region
+IT-34,Veneto,Veneto,region
+IT-36,Friuli Venezia Giulia,Friuli Venezia Giulia autonomous,region
+IT-42,Liguria,Liguria,region
+IT-45,Emilia-Romagna,Emilia-Romagna,region
+IT-52,Toscana,Tuscany,region
+IT-55,Umbria,Umbria,region
+IT-57,Marche,Marche,region
+IT-62,Lazio,Lazio,region
+IT-65,Abruzzo,Abruzzo,region
+IT-67,Molise,Molise,region
+IT-72,Campania,Campania,region
+IT-75,Puglia,Apulia,region
+IT-77,Basilicata,Basilicata,region
+IT-78,Calabria,Calabria,region
+IT-82,Sicilia,Sicily,autonomous region
+IT-88,Sardegna,Sardinia,autonomous region
+IT-AL,Alessandria,province,IT-21
+IT-AT,Asti,province,IT-21
+IT-BI,Biella,province,IT-21
+IT-CN,Cuneo,province,IT-21
+IT-NO,Novara,province,IT-21
+IT-TO,Torino,metropolitan city,IT-21
+IT-VB,Verbano-Cusio-Ossola,province,IT-21
+IT-VC,Vercelli,province,IT-21
+IT-BG,Bergamo,province,IT-25
+IT-BS,Brescia,province,IT-25
+IT-CO,Como,province,IT-25
+IT-CR,Cremona,province,IT-25
+IT-LC,Lecco,province,IT-25
+IT-LO,Lodi,province,IT-25
+IT-MN,Mantova,province,IT-25
+IT-MI,Milano,metropolitan city,IT-25
+IT-MB,Monza e Brianza,province,IT-25
+IT-PV,Pavia,province,IT-25
+IT-SO,Sondrio,province,IT-25
+IT-VA,Varese,province,IT-25
+IT-BZ,Bolzano,autonomous province,IT-32
+IT-TN,Trento,autonomous province,IT-32
+IT-BL,Belluno,province,IT-34
+IT-PD,Padova,province,IT-34
+IT-RO,Rovigo,province,IT-34
+IT-TV,Treviso,province,IT-34
+IT-VE,Venezia,metropolitan city,IT-34
+IT-VR,Verona,province,IT-34
+IT-VI,Vicenza,province,IT-34
+IT-GO,Gorizia,decentralized regional entity,IT-36
+IT-PN,Pordenone,decentralized regional entity,IT-36
+IT-TS,Trieste,decentralized regional entity,IT-36
+IT-UD,Udine,decentralized regional entity,IT-36
+IT-GE,Genova,metropolitan city,IT-42
+IT-IM,Imperia,province,IT-42
+IT-SP,La Spezia,province,IT-42
+IT-SV,Savona,province,IT-42
+IT-BO,Bologna,metropolitan city,IT-45
+IT-FE,Ferrara,province,IT-45
+IT-FC,Forlì-Cesena,province,IT-45
+IT-MO,Modena,province,IT-45
+IT-PR,Parma,province,IT-45
+IT-PC,Piacenza,province,IT-45
+IT-RA,Ravenna,province,IT-45
+IT-RE,Reggio Emilia,province,IT-45
+IT-RN,Rimini,province,IT-45
+IT-AR,Arezzo,province,IT-52
+IT-FI,Firenze,metropolitan city,IT-52
+IT-GR,Grosseto,province,IT-52
+IT-LI,Livorno,province,IT-52
+IT-LU,Lucca,province,IT-52
+IT-MS,Massa-Carrara,province,IT-52
+IT-PI,Pisa,province,IT-52
+IT-PT,Pistoia,province,IT-52
+IT-PO,Prato,province,IT-52
+IT-SI,Siena,province,IT-52
+IT-PG,Perugia,province,IT-55
+IT-TR,Terni,province,IT-55
+IT-AN,Ancona,province,IT-57
+IT-AP,Ascoli Piceno,province,IT-57
+IT-FM,Fermo,province,IT-57
+IT-MC,Macerata,province,IT-57
+IT-PU,Pesaro e Urbino,province,IT-57
+IT-FR,Frosinone,province,IT-62
+IT-LT,Latina,province,IT-62
+IT-RI,Rieti,province,IT-62
+IT-RM,Roma,metropolitan city,IT-62
+IT-VT,Viterbo,province,IT-62
+IT-CH,Chieti,province,IT-65
+IT-AQ,L'Aquila,province,IT-65
+IT-PE,Pescara,province,IT-65
+IT-TE,Teramo,province,IT-65
+IT-CB,Campobasso,province,IT-67
+IT-IS,Isernia,province,IT-67
+IT-AV,Avellino,province,IT-72
+IT-BN,Benevento,province,IT-72
+IT-CE,Caserta,province,IT-72
+IT-NA,Napoli,metropolitan city,IT-72
+IT-SA,Salerno,province,IT-72
+IT-BA,Bari,metropolitan city,IT-75
+IT-BT,Barletta-Andria-Trani,province,IT-75
+IT-BR,Brindisi,province,IT-75
+IT-FG,Foggia,province,IT-75
+IT-LE,Lecce,province,IT-75
+IT-TA,Taranto,province,IT-75
+IT-MT,Matera,province,IT-77
+IT-PZ,Potenza,province,IT-77
+IT-CZ,Catanzaro,province,IT-78
+IT-CS,Cosenza,province,IT-78
+IT-KR,Crotone,province,IT-78
+IT-RC,Reggio Calabria,metropolitan city,IT-78
+IT-VV,Vibo Valentia,province,IT-78
+IT-AG,Agrigento,free municipal consortium,IT-82
+IT-CL,Caltanissetta,free municipal consortium,IT-82
+IT-CT,Catania,metropolitan city,IT-82
+IT-EN,Enna,free municipal consortium,IT-82
+IT-ME,Messina,metropolitan city,IT-82
+IT-PA,Palermo,metropolitan city,IT-82
+IT-RG,Ragusa,free municipal consortium,IT-82
+IT-SR,Siracusa,free municipal consortium,IT-82
+IT-TP,Trapani,free municipal consortium,IT-82
+IT-CA,Cagliari,metropolitan city,IT-88
+IT-NU,Nuoro,province,IT-88
+IT-OR,Oristano,province,IT-88
+IT-SS,Sassari,province,IT-88
+IT-SU,Sud Sardegna,province,IT-88
